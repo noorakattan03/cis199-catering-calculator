@@ -1,0 +1,10 @@
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.csproj.AssemblyReference.cache
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.contractLabel.resources
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.Properties.Resources.resources
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.csproj.GenerateResource.cache
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.csproj.CoreCompileInputs.cache
+C:\Users\noora\source\repos\Program3\Program3\bin\Debug\Program3.exe.config
+C:\Users\noora\source\repos\Program3\Program3\bin\Debug\Program3.exe
+C:\Users\noora\source\repos\Program3\Program3\bin\Debug\Program3.pdb
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.exe
+C:\Users\noora\source\repos\Program3\Program3\obj\Debug\Program3.pdb
